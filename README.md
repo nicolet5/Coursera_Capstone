@@ -1,2 +1,3 @@
-# Coursera_Capstone
-IBM coursera capstone, just for fun! 
+# Network Analysis of Seattle Venues
+
+As a business owner, it may be useful to know what "community" you belong to, where in this context "community" is not necessarily defined by geographical location, but by which venues are highly connected in terms of where people go next. This type of information could help inform which businesses you may want to target for joint promotions (those within your community). The "Next Venues" Foursquare endpoint provides information on which venues people tend to check into after the current site. This data allows for construction of a "next venues network", in this case centered around downtown Seattle. Community detection within this network indicates which venues are highly interconnected and shows "next venue" communities are not always necessarily geographical communities.
